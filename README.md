@@ -1,2 +1,4 @@
 # hello-world
-Repositorio inicial
+
+Bienvenidos,
+Este es un ejemplo transitorio para ingeniería de software
